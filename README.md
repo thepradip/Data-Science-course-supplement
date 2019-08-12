@@ -54,7 +54,7 @@
 - [Edx| Learn Data Science by doing data science](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
 ## Blogs
 ### Linear Regression
-- [ML cheatsheet|linear](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
+- [ML cheatsheet| linear](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 - [Simple Linear Regression Tutorial for Machine Learning](https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/)
 ## Logistic Regression
 - [ML cheatsheet| logistic](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
