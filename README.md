@@ -101,6 +101,9 @@
 - [Deep	Learning	for	NLP	](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf)
 ## Reinforcement Learning
 - [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
+- [Intro to Reinforcement](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+- [RL tutorials](https://web.mst.edu/~gosavia/tutorial.pdf)
+- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 ## Machine Learning best practice
 - [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [which ML algo to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
