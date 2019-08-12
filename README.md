@@ -58,6 +58,7 @@
 - [Machine Learning is fun series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [Machine Learning @ Berkeley|crash](https://medium.com/@ml.at.berkeley/machine-learning-crash-course-part-1-9377322b3042)
 - [Kaggle ](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
+- [Machine ]
 ## Math for Data Sciecne
 - [math for ML](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 - [Linear Algebra guide](https://betterexplained.com/articles/linear-algebra-guide/)
@@ -94,4 +95,5 @@
 ## Machine Learning best practice
 - [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [which ML algo to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
+- Data-Analysis-and-Machine-Learning-Projects](https://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
