@@ -62,7 +62,7 @@
 - [Data science course](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
 - [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
 - [Edx| Learn Data Science by doing data science](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
-## Data Science Blogs Resources
+# Data Science Blogs Resources
 ###  Blog courses
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Machine Learning is fun series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
