@@ -31,6 +31,8 @@
 - [AUC and ROC curve](https://www.youtube.com/watch?v=OAl6eAyP-yo)
 - [What's the difference between accuracy and precision?](https://www.youtube.com/watch?v=hRAFPdDppzs)
 ## Deep Learning <br>
+  - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)<br>
+   - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
  - [Keras|edureka](https://www.youtube.com/watch?v=XNKeayZW4dY)
   - [Keras|udemy](https://www.youtube.com/watch?v=7x2YZhEj9Dw)
   - [Getting Started with Keras (AI Adventures)](https://www.youtube.com/watch?v=J6Ok8p463C4)
@@ -43,7 +45,6 @@
 - [DL|udemy](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 - [DL|RNN](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [7 step to mastering deep learning](https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html)
- - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)<br>
  - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
  - [Transfer Learning](https://www.youtube.com/watch?v=mPFq5KMxKVw&t=1s)<br>
  - [Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM](https://www.youtube.com/watch?v=yCC09vCHzF8&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=11&t=0s)<br>
