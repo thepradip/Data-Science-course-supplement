@@ -119,6 +119,8 @@
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 - [Deep	Learning	for	NLP	](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf)
+- [ Advanced NLP with Spacy ](https://course.spacy.io/)
+- [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 ## Reinforcement Learning
 - [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 - [Intro to Reinforcement](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
