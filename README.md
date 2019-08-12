@@ -28,6 +28,7 @@
 ## Deep Learning <br>
  - [Keras|edureka](https://www.youtube.com/watch?v=XNKeayZW4dY)
   - [Keras|udemy](https://www.youtube.com/watch?v=7x2YZhEj9Dw)
+  - [Ten steps to keras|](https://www.youtube.com/watch?v=FrkYu2zVUyM)
 - [Deep learning| reinforcement Learning](http://videolectures.net/deeplearning2017_montreal/)
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
 <i>Course 1,2,3,4,5 of deep learning specialization</i> <br>
@@ -100,6 +101,10 @@
 - [RNNs in Tensorflow](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 - [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 - [how to run text summarization with tensorflow](http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/)
+## Keras
+- [keras documentaion](https://keras.io/)
+- [keras|kdnuggets](https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html)
+
 ## NLP
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
