@@ -52,6 +52,8 @@
 ## Natural Language Processing:
  - [Deep learning for NLP by Richard](https://www.youtube.com/watch?v=oGk1v1jQITw)<br>
  - [Deep Learning for NLP](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
+- [ Advanced NLP with Spacy ](https://course.spacy.io/)
+- [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 ## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 ## Artificial Intelligent
