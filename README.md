@@ -58,7 +58,7 @@
 - [Machine Learning is fun series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [Machine Learning @ Berkeley|crash](https://medium.com/@ml.at.berkeley/machine-learning-crash-course-part-1-9377322b3042)
 - [Kaggle ](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
-- [Machine ]
+- [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 ## Math for Data Sciecne
 - [math for ML](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 - [Linear Algebra guide](https://betterexplained.com/articles/linear-algebra-guide/)
@@ -86,12 +86,21 @@
  - [Datacamp| decision trees](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
  - [How To Implement The Decision Tree Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
  - [Decision tree |medium](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
+ ## Clustering
+ - [Kmean visuallization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+ - [DB scan visualization](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
  ## Tensorflow
  - [tensorflow|documentation](https://www.tensorflow.org/tutorials/)
  - [TensorFlow: A primer](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3)
 - [RNNs in Tensorflow](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 - [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 - [how to run text summarization with tensorflow](http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/)
+## NLP
+- [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
+- [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
+- [Deep	Learning	for	NLP	](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf)
+## Reinforcement Learning
+- [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 ## Machine Learning best practice
 - [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [which ML algo to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
