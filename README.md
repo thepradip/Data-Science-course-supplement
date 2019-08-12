@@ -85,9 +85,13 @@
  ## Decision trees
  - [Datacamp| decision trees](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
  - [How To Implement The Decision Tree Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
- - [Ensemble ](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)
+
  - [Decision tree |medium](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
- ## Clustering
+
+ - [Ensemble ](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)
+ - [Ensemble_learning algo](http://www.scholarpedia.org/article/Ensemble_learning)
+
+## Clustering
  - [Kmean visuallization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
  - [DB scan visualization](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
  ## Tensorflow
