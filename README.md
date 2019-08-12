@@ -66,6 +66,14 @@
 - [Machine Learning Mastery| logistic](https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/)
 ## Naive Bayes
 - [Practical explanation naive bayes classifier](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
+## Support Vector Machines
+ - [introduction to support vector machines svm](https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/)
+ - [standford notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
+ - [standford linear classification](http://cs231n.github.io/linear-classify/)
+ ## Decision trees
+ - [Datacamp| decision trees](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+ - [How To Implement The Decision Tree Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
+ - [Decision tree |medium](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
 ## Machine Learning best practice
 - [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [which ML algo to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
