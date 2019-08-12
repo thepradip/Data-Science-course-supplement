@@ -95,5 +95,5 @@
 ## Machine Learning best practice
 - [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [which ML algo to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
-- Data-Analysis-and-Machine-Learning-Projects](https://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+- [ Data-Analysis-and-Machine-Learning-Projects](https://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
