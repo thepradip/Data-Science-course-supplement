@@ -124,7 +124,7 @@
 - [RL tutorials](https://web.mst.edu/~gosavia/tutorial.pdf)
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 ## Machine Learning best practice
-- [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+- [ML rules](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [which ML algo to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 - [ Data-Analysis-and-Machine-Learning-Projects](https://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
