@@ -53,10 +53,18 @@
 - [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
 - [Edx| Learn Data Science by doing data science](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
 ## Blogs
+### Blog courses
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+- [Machine Learning is fun series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+- [Machine Learning @ Berkeley|crash](https://medium.com/@ml.at.berkeley/machine-learning-crash-course-part-1-9377322b3042)
+- [Kaggle ](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 ### Linear Regression
 - [ML cheatsheet| linear](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 - [Simple Linear Regression Tutorial for Machine Learning](https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/)
 ## Logistic Regression
 - [ML cheatsheet| logistic](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
 - [Machine Learning Mastery| logistic](https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/)
+## Machine Learning best practice
+- [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+- [which ML to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 
