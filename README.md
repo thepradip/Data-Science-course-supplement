@@ -58,6 +58,9 @@
 - [Machine Learning is fun series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [Machine Learning @ Berkeley|crash](https://medium.com/@ml.at.berkeley/machine-learning-crash-course-part-1-9377322b3042)
 - [Kaggle ](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
+## Math for Data Sciecne
+- [math for ML](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
+- [Linear Algebra guide](https://betterexplained.com/articles/linear-algebra-guide/)
 ### Linear Regression
 - [ML cheatsheet| linear](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 - [Simple Linear Regression Tutorial for Machine Learning](https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/)
