@@ -64,7 +64,9 @@
 ## Logistic Regression
 - [ML cheatsheet| logistic](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
 - [Machine Learning Mastery| logistic](https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/)
+## Naive Bayes
+- [Practical explanation naive bayes classifier](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
 ## Machine Learning best practice
 - [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-- [which ML to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
+- [which ML algo to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 
