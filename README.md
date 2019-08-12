@@ -61,6 +61,11 @@
 ## Math for Data Sciecne
 - [math for ML](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 - [Linear Algebra guide](https://betterexplained.com/articles/linear-algebra-guide/)
+- [Linear Algebra cheatsheet](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+- [A brief introduction to probability and statistics](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/)
+- [review probability](http://cs229.stanford.edu/section/cs229-prob.pdf)
+- [Probability for ML](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf)
+ - [probability ppt](http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial1.pdf)
 ### Linear Regression
 - [ML cheatsheet| linear](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 - [Simple Linear Regression Tutorial for Machine Learning](https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/)
@@ -69,6 +74,9 @@
 - [Machine Learning Mastery| logistic](https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/)
 ## Naive Bayes
 - [Practical explanation naive bayes classifier](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
+- [understanding bayes theorem with ratios](https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/)
+## K nearest Neighbour
+- [implementing your own knn](https://www.kdnuggets.com/2016/01/implementing-your-own-knn-using-python.html)
 ## Support Vector Machines
  - [introduction to support vector machines svm](https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/)
  - [standford notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
@@ -77,6 +85,12 @@
  - [Datacamp| decision trees](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
  - [How To Implement The Decision Tree Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
  - [Decision tree |medium](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
+ ## Tensorflow
+ - [tensorflow|documentation](https://www.tensorflow.org/tutorials/)
+ - [TensorFlow: A primer](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3)
+- [RNNs in Tensorflow](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+- [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+- [how to run text summarization with tensorflow](http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/)
 ## Machine Learning best practice
 - [ML rulles](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [which ML algo to use ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
