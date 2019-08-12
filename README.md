@@ -1,10 +1,7 @@
 # Data-Science-course-supplement
-# Supplement material for Data Science Course
-## Video 
-
-# Data-Science-Video-resources
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
 
+# Data-Science-Video-resources
 ## Machine learning Introduction:
 - [ML Intro](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
 - [what is ML](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLMUdwhLW7A0icUPn6LT5Zj0rDqZ2OOP8Y&index=7)
