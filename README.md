@@ -123,6 +123,7 @@
 - [Deep	Learning	for	NLP	](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf)
 - [ Advanced NLP with Spacy ](https://course.spacy.io/)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
+- [practitioner guide to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 ## Reinforcement Learning
 - [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 - [Intro to Reinforcement](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
