@@ -49,6 +49,10 @@
  - [Transfer Learning](https://www.youtube.com/watch?v=mPFq5KMxKVw&t=1s)<br>
  - [Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM](https://www.youtube.com/watch?v=yCC09vCHzF8&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=11&t=0s)<br>
 - [MIT deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) <br>
+# Reinforcement Learning
+- [Simplified Reinforcement learning](https://www.youtube.com/watch?v=e3Jy2vShroE)
+- [TensorFlow and deep reinforcement learning, without a PhD (Google I/O '18)](https://www.youtube.com/watch?v=t1A3NTttvBA&t=772s)
+- [Reinforcement Learning Course](https://www.youtube.com/watch?v=ELE2_Mftqoc&t=1845s)
 ## Natural Language Processing:
  - [Deep learning for NLP by Richard](https://www.youtube.com/watch?v=oGk1v1jQITw)<br>
  - [Deep Learning for NLP](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
