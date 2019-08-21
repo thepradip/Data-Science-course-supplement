@@ -76,6 +76,7 @@
 - [Machine Learning @ Berkeley|crash](https://medium.com/@ml.at.berkeley/machine-learning-crash-course-part-1-9377322b3042)
 - [Kaggle ](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 - [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+- [Mlcourse.ai](https://mlcourse.ai/)
 ## Math for Data Sciecne
 - [math for ML](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 - [Linear Algebra guide](https://betterexplained.com/articles/linear-algebra-guide/)
