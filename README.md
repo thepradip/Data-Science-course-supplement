@@ -9,7 +9,9 @@
 - [7 steps in ML](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&list=PLMUdwhLW7A0icUPn6LT5Zj0rDqZ2OOP8Y&index=3)
 
 ## Algebra:
+
 - [Linear Albegra| chapter 3](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=12)
+- [ 3 blue and 1 brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ## Probability and statistics: <br>
 - [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
 - [Khan Academy for probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) <br>
