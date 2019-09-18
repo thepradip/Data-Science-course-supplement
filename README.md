@@ -107,7 +107,6 @@
  ## Decision trees
  - [Datacamp| decision trees](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
  - [How To Implement The Decision Tree Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
-
  - [Decision tree |medium](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
 
  - [Ensemble ](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)
