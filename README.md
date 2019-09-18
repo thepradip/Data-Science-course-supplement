@@ -1,5 +1,5 @@
 # Data-Science-course-supplement
-<img src="https://github.com/thepradip/Data-Science-course-supplement/blob/master/datascience.jpeg" width="600"/>
+<img src="https://github.com/thepradip/Data-Science-course-supplement/blob/master/AI.png" width="600"/>
 
 ## Videos Resources
 - [Data-Science-Video-resources](https://github.com/thepradip/Data-Science-Video-resources/tree/master)
