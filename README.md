@@ -41,7 +41,7 @@
   - [Ten steps to keras|](https://www.youtube.com/watch?v=FrkYu2zVUyM)
 - [Deep learning| reinforcement Learning](http://videolectures.net/deeplearning2017_montreal/)
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
-<i>Course 1,2,3,4,5 of deep learning specialization</i> <br>
+<i>Course 1,2,3,4,5 of deep learning specialization</i> 
 - [Convolutional Neural Networks](https://www.youtube.com/watch?v=LxfUGhug-iQ&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=8&t=0s)<br>
 - [RNN](https://www.youtube.com/watch?v=yCC09vCHzF8&t=58s)<br>
 - [DL|udemy](https://www.youtube.com/watch?v=BR9h47Jtqyw)
