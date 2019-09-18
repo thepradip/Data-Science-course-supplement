@@ -1,7 +1,7 @@
 # Data-Science-course-supplement
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
-
-- Data-Science-Video-resources
+## Videos Resources
+- [Data-Science-Video-resources](https://github.com/thepradip/Data-Science-Video-resources/tree/master)
 
 ## Data Scientist Interiew
 - [DataCamp |DataChats](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1)
