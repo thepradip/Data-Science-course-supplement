@@ -86,4 +86,6 @@
 - [ Data-Analysis-and-Machine-Learning-Projects](https://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 ## AI Trend
 - [AI trend](https://www.aitrends.com/)
+## Data Science Projects
+- [kaggle project with kernel ](https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners)
 
