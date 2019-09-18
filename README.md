@@ -14,6 +14,7 @@
 ###  Blog courses
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Machine Learning is fun series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+- [Data school](https://www.dataschool.io/)
 - [Machine Learning @ Berkeley|crash](https://medium.com/@ml.at.berkeley/machine-learning-crash-course-part-1-9377322b3042)
 - [Kaggle ](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 - [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)
