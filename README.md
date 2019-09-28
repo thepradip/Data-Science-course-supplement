@@ -52,6 +52,8 @@
 
  - [Ensemble ](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)
  - [Ensemble_learning algo](http://www.scholarpedia.org/article/Ensemble_learning)
+ # Time series
+ - [great articles on Time series](https://www.datasciencecentral.com/profiles/blogs/21-great-articles-and-tutorials-on-time-series)
 
 ## Clustering
  - [Kmean visuallization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
