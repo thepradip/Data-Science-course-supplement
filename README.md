@@ -33,6 +33,7 @@
 ### Linear Regression
 - [ML cheatsheet| linear](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 - [Simple Linear Regression Tutorial for Machine Learning](https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/)
+- [regression](https://www.datasciencecentral.com/profiles/blogs/26-great-articles-and-tutorials-about-regression-analysis)
 ## Logistic Regression
 - [ML cheatsheet| logistic](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
 - [Machine Learning Mastery| logistic](https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/)
@@ -58,6 +59,10 @@
 ## Clustering
  - [Kmean visuallization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
  - [DB scan visualization](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
+ -[clustering](https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering)
+ # Deep Learning
+ - [15 Deep Learning tutorials](https://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
+
  ## Tensorflow
  - [tensorflow|documentation](https://www.tensorflow.org/tutorials/)
  - [TensorFlow: A primer](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3)
@@ -75,6 +80,8 @@
 - [ Advanced NLP with Spacy ](https://course.spacy.io/)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [practitioner guide to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
+## Big Data
+- [big data 11](https://www.datasciencecentral.com/profiles/blogs/11-great-hadoop-spark-and-map-reduce-articles)
 ## GAN
 - [All about GANs](https://github.com/thepradip/GANs)
 ## Reinforcement Learning
