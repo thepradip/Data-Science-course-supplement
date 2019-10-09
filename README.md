@@ -69,6 +69,8 @@
 - [RNNs in Tensorflow](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 - [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 - [how to run text summarization with tensorflow](http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/)
+# Transfer Learning
+ -[transfer](https://github.com/thepradip/Transfer-Learning/settings)
 ## Keras
 - [keras documentaion](https://keras.io/)
 - [keras|kdnuggets](https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html)
