@@ -24,6 +24,7 @@
 - [Mlcourse.ai](https://mlcourse.ai/)
 # Visualization of model
 - [Tensorboard](https://www.tensorflow.org/tensorboard)
+- [Hand-on Tensorboard](https://www.youtube.com/watch?v=eBbEDRsCmv4)
 - [Weight and Biases](https://www.wandb.com/tutorials)
 ## Math for Data Sciecne
 - [math for ML](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
