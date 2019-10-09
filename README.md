@@ -22,6 +22,9 @@
 - [Kaggle ](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 - [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Mlcourse.ai](https://mlcourse.ai/)
+# Visualization of model
+- [Tensorboard](https://www.tensorflow.org/tensorboard)
+- [Weight and Biases](https://www.wandb.com/tutorials)
 ## Math for Data Sciecne
 - [math for ML](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 - [Linear Algebra guide](https://betterexplained.com/articles/linear-algebra-guide/)
