@@ -80,6 +80,12 @@
 - [keras|kdnuggets](https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html)
 
 ## NLP
+- [Coursera| NLP](https://www.coursera.org/learn/language-processing/)
+- [Standford NLP course](https://web.stanford.edu/class/cs124/)
+- [Stanford deep NLP](http://cs224d.stanford.edu/syllabus.html)
+- [Data Schools|NLP](https://github.com/yandexdataschool/nlp_course/tree/master)
+- [OXFORD |DLNLP](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/timetable.html)
+- [Washington](https://courses.cs.washington.edu/courses/cse517/17wi/)
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 - [Deep	Learning	for	NLP	](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf)
