@@ -111,4 +111,10 @@
 - [AI trend](https://www.aitrends.com/)
 ## Data Science Projects
 - [kaggle project with kernel ](https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners)
+## Datasets
+- [50 NLP Datasets](https://blog.cambridgespark.com/50-free-machine-learning-datasets-natural-language-processing-d88fb9c5c8da)
+- [Data science Datasets](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
+- [Machine Mastery](https://machinelearningmastery.com/datasets-natural-language-processing/)
+- [Cambridgespark](https://blog.cambridgespark.com/50-free-machine-learning-datasets-natural-language-processing-d88fb9c5c8da)
+- [Public Datasets ](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 
