@@ -87,6 +87,7 @@
 - [OXFORD |DLNLP](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/timetable.html)
 - [Washington](https://courses.cs.washington.edu/courses/cse517/17wi/)
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
+- [Approaching-almost-any-nlp-problem-on-kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
 - [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 - [Deep	Learning	for	NLP	](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf)
 - [ Advanced NLP with Spacy ](https://course.spacy.io/)
