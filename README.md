@@ -1,4 +1,5 @@
-# Data-Science-course-supplement
+# Data-Science-resources
+
 <img src="https://github.com/thepradip/Data-Science-course-supplement/blob/master/AI.png" width="600"/>
 
 ## Videos Resources
